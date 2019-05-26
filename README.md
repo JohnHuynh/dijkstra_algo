@@ -1,4 +1,4 @@
-# dijkstra_algo
+# Dijkstra Algorithm
 
 The JSON-file "generatedGraph" contains nodes and edges of a weighted graph. 
 The python code "challenge.py" computes the shortest path from planet (node) "Erde" to planet (node) "b3-r7-r4nd7".
